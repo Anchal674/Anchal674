@@ -75,7 +75,7 @@ https://github.com/Anchalde/Task-Tracker-BE.git
 
 ### Email: anchalpatel086@gmail.com
 ### LinkedIn: www.linkedin.com/in/anchal-devi-032a83378
-### GitHub: https://github.com/Anchalde/
+### GitHub: https://github.com/Anchal674
 
 
    
