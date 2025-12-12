@@ -1,6 +1,6 @@
 ##  👋 Hi, I'm Anchal Patel
 
-##  Future Data Scientist | Passionate About ML, Analytics & Visualization
+##   Data Scientist | Passionate About ML, Analytics & Visualization
 #### I am a fresher in Data Science with a strong foundation in Python, statistics, and machine learning. I love turning messy data into clear insights, building predictive models, and visualizing results that help make decisions. I'm currently pursuing projects to strengthen my portfolio and learn practical MLOps and model deployment.
 
    ## About Me
@@ -12,7 +12,7 @@
 #### 📍 Exploring more about Deep Learning & NLP.
 
 ## Tech Stack
-#### Languages & Libraries: Python, SQL, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, Statsmodels
+#### Languages & Libraries #### : Python, SQL, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, Statsmodels
 #### Tools & Platforms: Jupyter, Git, GitHub, Docker, VS Code, Google Colab, Excel
 #### Visualization: Power BI, Excel, Matplotlib
 #### Machine Learning & DS: Linear Regression, Logistic Regression, Decision Trees, Random Forest, XGBoost, Model Evaluation, Feature Engineering.
