@@ -12,7 +12,7 @@
 #### 📍 Exploring more about Deep Learning & NLP.
 
 ## Tech Stack
-#### Languages & Libraries #### : Python, SQL, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, Statsmodels
+#### Languages & Libraries: Python, SQL, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, Statsmodels
 #### Tools & Platforms: Jupyter, Git, GitHub, Docker, VS Code, Google Colab, Excel
 #### Visualization: Power BI, Excel, Matplotlib
 #### Machine Learning & DS: Linear Regression, Logistic Regression, Decision Trees, Random Forest, XGBoost, Model Evaluation, Feature Engineering.
