@@ -1,4 +1,4 @@
-# 👩‍💻 Anchal Devi  
+# 👩‍💻 Anchal Patel  
 ## Data Scientist / AI Engineer (Fresher)
 
 📍 **Ghaziabad, Uttar Pradesh, India**  
