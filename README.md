@@ -1,5 +1,5 @@
 # 👩‍💻 Anchal Patel  
-## Data Scientist / AI Engineer (Fresher)
+## Data Scientist / AI Engineer 
 
 📍 **Ghaziabad, Uttar Pradesh, India**  
 📧 **Email:** anchalpatel086@gmail.com  
